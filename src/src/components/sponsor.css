@@ -1,0 +1,58 @@
+@keyframes slide {
+    from {
+        transform : translateX(0);
+    }
+    to {
+        transform : translateX(-300%);
+    }
+}
+
+.logos-slide{
+    animation: 25s slide infinite linear;
+}
+
+.logos {
+    overflow: hidden;
+    white-space: nowrap;
+    display: flex;
+}
+
+.second{
+    left: 85%;
+}
+
+@media (max-width: 500px) {
+    
+    .second {
+        display: none;
+    }
+}
+
+@media (max-width: 800px) {
+    
+    .second {
+        left: 190%;
+    }
+}
+
+@media (max-width: 900px) {
+    
+    .second {
+        left: 220%
+    }
+}
+
+.logo:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background-color: red;
+    content: "";
+}
+
+.moreBtn:hover{
+    background-color: #212121;
+    color: #f1f1f1;
+}
