@@ -15,6 +15,7 @@ import Events5 from './component/Events/MaterialsUnlocked';
 import Mritika23 from './component/IncersChapter/Mrittika2023'
 import AboutIncersChapter from './component/IncersChapter/AboutIncersChapter';
 import Mritika19 from './component/IncersChapter/Mrittika2019';
+import Mritika2025 from './component/IncersChapter/Mrittika2025';
 
 const App = () => {
   return (
@@ -34,6 +35,7 @@ const App = () => {
       <Route exact path="/aboutincerschapter" component={AboutIncersChapter} />
       <Route exact path="/mritika" component={Mritika23} />
       <Route exact path="/mritika1" component={Mritika19} /> 
+      <Route exact path="/mritika2025" component={Mritika2025} />
     </>);
 }
 

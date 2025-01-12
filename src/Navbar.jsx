@@ -97,6 +97,12 @@ const Navbar = () => {
                                         Mrittika-2023
                                     </NavLink>
                                 </li>
+                                 {/* New Mrittika 2025 Section */}
+                                 <li className="dropdown-item">
+                                    <NavLink to="/mritika2025" exact="true" style={{ textDecoration: "none", color: 'black' }}>
+                                        Mrittika-2025
+                                    </NavLink>
+                                </li>
                                 <li className="dropdown-item">
                                     <NavLink to="/mritika1" exact style={{ textDecoration: "none", color: 'black' }} >
                                         Mrittika-2019
