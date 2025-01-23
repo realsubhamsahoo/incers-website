@@ -1,114 +1,126 @@
 # Incers Club README
 
-This Website is a contribution to Incers Club which was done by Pratyush Kundu ,Batch (2020-2024) and Jagrit Sahoo ,Batch (2020-2024) from Ceramic Dept. and was improved by Suraj K Behera ,Batch (2021-2025) and Udit Pradhan ,Batch(2021-2025).
+Welcome to the Incers Club! This website is a contribution to the club by **Pratyush Kundu** and **Jagrit Sahoo** (Batch of 2020-2024, Ceramic Engineering) and was later improved by **Suraj K Behera** and **Udit Pradhan** (Batch of 2021-2025, Ceramic Engineering). We proudly pass on this platform to our juniors, who will take on the responsibility of further developing and managing it.
 
-Before an welcome message we pass on this website to our upcoming juniors to take on the further responsibilities.
+This README provides all the information you need to get started and make the most of your involvement in the club.
 
-Welcome to the Incers Club! This README file will provide you with all the information you need to get started and make the most of your membership in our club.
+---
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Mission Statement](#mission-statement)
-3. [Membership](#membership)
-4. [Meetings and Events](#meetings-and-events)
-5. [Contributing](#contributing)
-6. [Prerequisites for Contribution](#prerequisites-for-contribution)
-7. [Installation](#installation)
+
+1. [Introduction](#introduction)  
+2. [Mission Statement](#mission-statement)  
+3. [Membership](#membership)  
+4. [Meetings and Events](#meetings-and-events)  
+5. [Contributing](#contributing)  
+6. [Prerequisites for Contribution](#prerequisites-for-contribution)  
+7. [Installation](#installation)  
 8. [Contact Information](#contact-information)
+
+---
 
 ## 1. Introduction
 
-The Incers Club is a community of passionate individuals who share a common interest in increasing their knowledge, skills, and personal growth. We provide a platform for members to connect, collaborate, and learn from each other. Whether you're a student, professional, or enthusiast, you're welcome to join us.
+The **Incers Club** is a vibrant community of passionate individuals dedicated to advancing knowledge, fostering collaboration, and promoting personal growth. Whether you’re a student, professional, or enthusiast, the club provides a platform for networking, learning, and innovation.
 
-Indian Ceramic Society (InCerS) is a non-profit organization established in 1928 under the guidance of Pandit Madan Mohan Malviya with an objective of establishing a network & relationship among all material enthusiasts, industrial professionals and any other people connected to this field. The primary objective of InCerS is to promote advancement in ceramic science, arts and technologies, by bringing into close contact those who are engaged in these pursuits, publishing scientific and technical books and journals, holding annual sessions, discussions, meetings, symposia and exhibitions on the subjects of interest. InCerS, NITR is the student chapter of Indian Ceramic Society which organizes annual events like Mrittika. To be a part of InCerS student chapter one needs to pay a membership amount. Being a part of InCerS student chapter has many benefits like getting huge amount of funds to organize events like MRITTIKA whose budget is more than the annual tech fest of NITR NITR-ICS is the student chapter of InCerS at NIT Rourkela with a total strength of 50+ active members. The club is presided over by Shivam Sharma (3rd year B Tech student) from the Department of Ceramic Engineering, NIT Rourkela. Prof. Shantanu Behera from the Department of Ceramic Engineering who is an esteemed alumnus of NIT Rourkela as well as the current Associate Dean of Alumni relations is the club faculty advisor. The club comes under the Technical society of SAC and is responsible for organising fests and sessionals related to materials science.
+The **Indian Ceramic Society (InCerS)**, established in 1928 under the guidance of **Pandit Madan Mohan Malviya**, is a non-profit organization focused on advancing ceramic science, arts, and technology. Through scientific publications, events, and exhibitions, InCerS connects material enthusiasts, industrial professionals, and students.
+
+**InCerS, NITR Chapter**, organizes events like **Mrittika**, a premier fest with a budget exceeding that of the institute’s annual tech fest. The club is currently presided over by **Shivam Sharma** (3rd-year B.Tech, Ceramic Engineering) and guided by **Prof. Shantanu Behera**, an alumnus and Associate Dean of Alumni Relations. The club operates under the **Technical Society of SAC** at NIT Rourkela.
+
+---
 
 ## 2. Mission Statement
 
-Our mission is to create a supportive and inclusive environment where members can:
-
-- Share knowledge and expertise.
-- Learn from each other's experiences.
-- Explore new ideas and concepts.
-- Collaborate on projects and initiatives.
+Our mission is to cultivate a supportive and inclusive environment where members can:
+- Share knowledge and expertise.  
+- Learn from diverse experiences.  
+- Explore innovative ideas and concepts.  
+- Collaborate on impactful projects.  
 - Foster personal and professional growth.
+
+---
 
 ## 3. Membership
 
-Membership in the Incers Club is open to anyone who shares our interests and values. To become a member, follow these steps:
+Membership is open to all individuals who align with the club’s values and interests. To join, follow these steps:
+1. Visit our [website](https://incersnitrkl.netlify.app/) and navigate to the **Contact** page.  
+2. Reach out to the club secretary to complete your membership process.
 
-1. Visit our [Incers website](https://incersnitrkl.netlify.app/) and go to contact page.
-2. Contact the secretary and take the membership.
+---
 
 ## 4. Meetings and Events
 
-We host regular meetings and events both online and, when possible, in person. These gatherings are an opportunity to:
+We regularly host meetings and events, both online and offline, to engage our members. These include:
+- Discussions on industry trends and developments.  
+- Presentations of individual projects and research.  
+- Networking opportunities.  
+- Workshops and webinars.
 
-- Discuss relevant topics and trends.
-- Present your own projects or research.
-- Network with fellow members.
-- Participate in workshops and webinars.
+Stay updated on our [website](https://incersnitrkl.netlify.app/) for the latest activities.
 
-Keep an eye on our [Incers Website](https://incersnitrkl.netlify.app/) for upcoming activities.
+---
 
 ## 5. Contributing
 
-We encourage members to actively contribute to the club's growth and success. You can contribute in the following ways:
+We welcome and encourage members to contribute to the growth of the club. Here’s how you can help:
+- Host a workshop or webinar.  
+- Propose and organize events or initiatives.  
+- Share insights and resources with the community.  
+- Provide constructive feedback and suggestions.
 
-- Share your expertise by hosting a workshop or webinar.
-- Propose and organize events or projects.
-- Contribute to our online community by sharing valuable content and engaging in discussions.
-- Provide feedback and suggestions to help improve the club.
+For contributions to the website:
+1. Fork the repository.  
+2. Create a feature branch: `git checkout -b feature-name`.  
+3. Make your changes and commit them with meaningful messages.  
+4. Push your changes to your forked repository.  
+5. Submit a pull request to the main repository.
 
-We welcome contributions to improve this e-commerce website. If you have ideas for new features, bug fixes, or improvements, please follow these steps:
+---
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your forked repository.
-5. Create a pull request to merge your changes into the main repository.
-
-   
 ## 6. Prerequisites for Contribution
 
-- [Node.js](https://nodejs.org/) installed on your computer.
-- [Git](https://git-scm.com/) for version control.
-- A code editor such as [Visual Studio Code](https://code.visualstudio.com/).
+To contribute to the website, ensure you have the following tools installed:
+- [Node.js](https://nodejs.org/)  
+- [Git](https://git-scm.com/)  
+- A code editor like [Visual Studio Code](https://code.visualstudio.com/)
+
+---
 
 ## 7. Installation
 
-1. Clone the repository to your local machine:
-
+Follow these steps to set up the project locally:
+1. Clone the repository:
    ```bash
    git clone https://github.com/incers-nitrkl/incers-website
    ```
 
 2. Navigate to the project directory:
-
    ```bash
    cd incers-website
    ```
 
-3. Install the project dependencies:
-
+3. Install dependencies:
    ```bash
    npm install
    ```
 
 4. Start the development server:
-
    ```bash
    npm start
    ```
 
-5. Access the website in your web browser by navigating to `http://localhost:3000`.
+5. Open `http://localhost:3000` in your web browser.
+
+---
 
 ## 8. Contact Information
 
-If you have any questions, concerns, or feedback, please don't hesitate to reach out to us:
+For queries, suggestions, or feedback, reach out to us through the following channels:
+- **Email**: incersnitr@gmail.com  
+- **Website**: [Incers Website](https://incersnitrkl.netlify.app/)  
+- **Instagram**: [Instagram](https://www.instagram.com/nitr_incers/)  
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/company/incers-nitr/mycompany/)
 
-- Email: incersnitr@gmail.com
-- Website: [Incers](https://incersnitrkl.netlify.app/)
-- Instagram: [Incers-instagram](https://www.instagram.com/nitr_incers/)
-- LinkedIn: [Incers-LinkedIn](https://www.linkedin.com/company/incers-nitr/mycompany/)
+---
 
-We look forward to having you as a member of the Incers Club and hope you enjoy your journey of growth and learning with us!
+We look forward to your active participation in the **Incers Club**. Together, let’s grow, learn, and create a lasting impact!
